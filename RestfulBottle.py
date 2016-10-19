@@ -17,6 +17,3 @@ def todo_save( name="my todo" ):
     return { "success" : False, "path" : "/PTH/TO/XML/"+name+".xml", "error" : "save not implemented yet" }
 
 run(host='localhost', port=8080, debug=True)
-run(host='localhost', port=8080, debug=True)
-run(host='localhost', port=8080, debug=True)
-run(host='localhost', port=8080, debug=True)
